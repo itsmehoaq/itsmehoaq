@@ -1,16 +1,24 @@
-### Hi there 👋
+## ✿ Yahallo, it's me Hoaq ✿
 
-<!--
-**itsmehoaq/itsmehoaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- Name: **Hoaq** - _Freelancer?_
+- I literally made my GitHub account just for code storing.
+- Photographer / Videographer wanna-be.
+- Apple Eco user with a gaming headset and gaming mic, somehow.
 
-Here are some ideas to get you started:
+### Skills
+- C++
+- Python (soon, hopefully)
+- Some random media skills including designing (on Photoshop only), video editing (mainly on Premiere Pro, trying Final Cut), Photography and Videography.
+- _to be updated later..._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+- Discord: `hoaq#6054`
+- [Facebook](https://www.facebook.com/itsmehoaq/)
+- [Twitch (_inactive_)](https://www.twitch.tv/itsmehoaq)
+- [Twitter (_where I mostly post weeb stuff_)](https://twitter.com/itsmehoaq)
+
+### Some random stuff I've done
+- Media Leader at [Community of Advanced Program Student](https://www.facebook.com/capsdut) and [Faculty of Advanced Science and Technology's Youth Union](https://www.facebook.com/lcd.fast.dut)
+- Founder of [Vietnam Community League](https://www.facebook.com/VNCommunityLeague)
+
